@@ -1,0 +1,2 @@
+abdomen;crisscross,10,crisscross1.png,crisscross2.png;rollouts,15,rollouts1.png,rollouts2.png;paseeTwist,10,paseeTwist1.png,paseeTwist2.png;patadas de rana,10,patadasderana1.png,patadasderana2.png
+piernas;puente cadera,20,puentecadera1.png,puentecadera2.png;patadas,15,patadas1.png,patadas2.png

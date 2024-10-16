@@ -1,0 +1,6 @@
+ec\edu\espol\deber2javafx\App.class
+module-info.class
+ec\edu\espol\model\Rutina.class
+ec\edu\espol\model\Ejercicio.class
+ec\edu\espol\controllers\AplicacionController.class
+ec\edu\espol\model\GymException.class
